@@ -10,7 +10,8 @@ Basic set up of a Django project.
 Rui Guo
 
 ## Links and Resources
-https://github.com/mvrk/django-snacks/pull/1
+
+https://github.com/mvrk/django-snacks
 
 [requirements.txt](./requirements.txt)
 
